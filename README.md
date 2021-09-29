@@ -5,7 +5,7 @@
 
 > Github Explorer
 
-### 🏠 [Homepage](https://github.com/walteribeiro/)
+### 🏠 [Homepage](https://github.com/walteribeiro/github-explorer#readme)
 
 ## Install
 
@@ -38,7 +38,7 @@ yarn dev
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/walteribeiro/github-explorer/issues). You can also take a look at the [contributing guide](https://github.com/walteribeiro/github-explorer/blob/master/CONTRIBUTING.mg).
+Feel free to check [issues page](https://github.com/walteribeiro/github-explorer/issues). You can also take a look at the [contributing guide](https://github.com/walteribeiro/github-explorer/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
